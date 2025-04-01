@@ -1,0 +1,12 @@
+__pycache__/global_vars.cpython-313.pyc
+__pycache__/sg.cpython-313.pyc
+__pycache__/utils.cpython-313.pyc
+gui/__pycache__/drawing_area.cpython-313.pyc
+gui/__pycache__/main_window.cpython-313.pyc
+gui/__pycache__/menu_box.cpython-313.pyc
+gui/__pycache__/object_form.cpython-313.pyc
+gui/__pycache__/object_list.cpython-313.pyc
+gui/__pycache__/window_form.cpython-313.pyc
+system/__pycache__/basics.cpython-313.pyc
+system/__pycache__/objects.cpython-313.pyc
+system/__pycache__/view.cpython-313.pyc
